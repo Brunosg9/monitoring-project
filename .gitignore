@@ -1,0 +1,18 @@
+# Arquivos Zabbix
+zabbix_*/
+
+# Arquivos de configuração do Zabbix
+*.conf.php
+
+# Arquivos de log do Zabbix
+zabbix_server.log
+zabbix_proxy.log
+
+# Cache do Zabbix
+cache/
+
+# Backup do Zabbix
+backup/
+
+# Arquivos temporários do Zabbix
+tmp/
