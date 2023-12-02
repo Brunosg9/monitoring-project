@@ -1,2 +1,3 @@
 # monitoring-project
-Container com Zabbix e Grafana
+
+- Projeto de monitorimanto com container, mysql, zabbix e grafana
