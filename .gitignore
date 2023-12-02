@@ -7,7 +7,7 @@ zabbix_*/
 # Arquivos de log do Zabbix
 zabbix_server.log
 zabbix_proxy.log
-
+zabbix-release*
 # Cache do Zabbix
 cache/
 
